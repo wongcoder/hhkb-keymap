@@ -1,5 +1,5 @@
 # hhkb-keymap
-This is my firmware for the HHKB Professional 2 (Hasu Bluetooth Controller)
+This is my firmware for the HHKB Professional 2 (Hasu Bluetooth Controller).
 
 
 ## Principles
