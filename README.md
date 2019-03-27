@@ -7,3 +7,7 @@ Basically, I want the function key to be a little bti more ergonomic, so I mappe
 
 ## Layout
 
+![layer0](/images/layer0.png)
+![layer1](/images/layer1.png)
+![layer2](/images/layer2.png)
+![layer2](/images/layer3.png)
